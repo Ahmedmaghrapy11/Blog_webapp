@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "My first blog",
+      "body": "why do we use it?\n it's a body",
+      "author": "ahmad",
+      "id": 1
+    },
+    {
+      "title": "My second blog",
+      "body": "why do we use it?\n it's a body",
+      "author": "khaled",
+      "id": 2
+    },
+    {
+      "title": "new blog 1",
+      "body": "sdasdhofausfhduheluhaduhqncnjvn sdkncoa;jsd;oeqnc ln;ojad;oqwh anbdolehfowhefknz bkshwehf;weifjuhudsofsuefvnwjeif hdouqhfuh",
+      "author": "ahmad",
+      "id": 3
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+- reactive variable => is a variable that changes with an event.
+- How to make a reactive variable:
+    1. import useState hook from react.
+    2. use the useState hook as following:
+        const [name, setName] = useState("ahmad");
+    3. make a function and invoke setName("hesham") inside it and bind it with a button.
+    4. call name inside the JSX code.
+- name => a variable to hold the initial value ("ahmad").
+- setName() => is a function to change the value of name.
